@@ -1,0 +1,145 @@
+html
+{scroll-behavior: smooth;}
+body
+{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+header
+{
+background-image: url("../image/Homepage01.jpg");
+background-color: rgba(0,0,0,0.7);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+width: 100%;
+ height: 800px;
+
+}
+nav
+{padding-top: 30px;}
+.layer2
+{
+    height: 800px;
+
+
+
+}
+header .layer
+{
+    background-color: rgba(0.0.0.0.5);
+}
+.section2
+{
+    position: relative;
+    top:-130px;
+    background-color: teal;
+    padding: 50px 0px;
+    color: white;
+    font-size: 27px;
+
+
+}
+
+
+ .section3 .headofart
+ {
+     color: teal;
+ }
+
+.section3
+{position: relative;
+top:-100px;
+}
+.section3 .position
+{
+    position: relative;
+    z-index: 10;
+    top:20px;
+    
+}
+.section4
+{
+background-color: rgb(210, 230, 250);
+}
+.section5
+{
+    padding-top: 50px;
+
+}
+.section5 img
+{position: relative;
+top:-60px;
+}
+.section6 .ANNOUNCING
+{
+    position:absolute;
+    top:30px;
+    height: 500px;
+    background-color: white;
+}
+.section6 .col-4 h2
+{
+    position: absolute;
+    bottom: 30px;
+    right: 40px;
+}
+.section6 .news
+{
+    position:absolute;
+    top:30px;
+}
+.section7 img
+{width:17%}
+
+.section7 i
+{
+position: relative;
+top:90px;
+}
+.section8
+{
+    background-color: rgba(0, 47, 255, 0.726);
+
+}
+.section8 .label1
+{
+    position:relative;
+    right: 170px;
+}
+.section8 .label2
+{
+    position:relative;
+    right: 70px;
+
+
+}
+
+.section9
+{
+    background-color: teal;
+
+}
+.section11 
+{background-image: url("../image/capital.png");
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100% ;
+height: 700px;
+}
+.section11 .layer
+{
+    
+    background-color: rgba(0,0,0,0.2);
+}
+.section12 .img2
+{
+    z-index: 3;
+    position:relative;
+    top:-450px;
+    left:100px
+
+}
+.section12 .img3
+{
+z-index: 2;
+position: relative;
+top:-850px;
+left:-60px
+}
